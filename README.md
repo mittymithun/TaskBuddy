@@ -1,2 +1,2 @@
 # TaskBuddy
-A To-Do App
+TaskBuddy is a simple and user-friendly to-do list application that helps you stay organized and on top of your tasks. With TaskBuddy, you can easily add, remove, and schedule tasks, set reminders, and mark tasks as complete. Whether you're a busy student, a professional with a hectic schedule, or just someone looking to stay on track, TaskBuddy has you covered. Get organized, stay focused, and get things done with TaskBuddy.
